@@ -1,0 +1,23 @@
+{
+  "name": "angeloni-scraper",
+  "version": "1.0.0",
+  "description": "A Node.js script to scrape products from Extramercado.",
+  "main": "evaluation_spider.js",
+  "scripts": {
+    "start": "node evaluation_spider.js"
+  },
+  "keywords": [
+    "scraping",
+    "nodejs",
+    "axios",
+    "cheerio",
+    "extramercado"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.0.0",
+    "cheerio": "^1.0.0-rc.12",
+    "playwright": "^1.52.0"
+  }
+}
