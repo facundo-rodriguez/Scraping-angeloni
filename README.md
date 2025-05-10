@@ -73,16 +73,5 @@ El script imprime por consola:
 ## Consideraciones
 
 - El scroll automático se repite hasta que no se cargan más productos.
-- Solo se mantiene la última carga de productos (no se concatena).
 - Si el sitio cambia su estructura (por ejemplo, clases CSS o estructura DOM), el selector puede dejar de funcionar.
 
----
-
-## Licencia
-
-MIT
-
----
-
-**Autor:** Facundo Rodríguez  
-**Email:** (podés agregarlo si querés)
