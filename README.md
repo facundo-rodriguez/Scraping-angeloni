@@ -74,4 +74,5 @@ El script imprime por consola:
 
 - El scroll automático se repite hasta que no se cargan más productos.
 - Si el sitio cambia su estructura (por ejemplo, clases CSS o estructura DOM), el selector puede dejar de funcionar.
+- En el archivo p.html se puede ver la estructura html de ítem de producto.
 
